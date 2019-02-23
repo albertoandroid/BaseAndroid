@@ -1,0 +1,25 @@
+{
+  "curso": [
+      {
+        "curso_id": 1,
+        "nombre": "Curso Retrofit",
+        "profesorId": 8
+      },
+      {
+        "curso_id": 2,
+        "nombre": "Curso iOS",
+        "profesorId": 11
+      },
+      {
+        "curso_id": 3,
+        "nombre": "Curso Java",
+        "profesorId": 11
+      },
+      {
+        "curso_id": 4,
+        "nombre": "Curso Kotlin",
+        "profesorId": 11
+      }
+    ]
+
+}
